@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    img{
+        width: 140px;
+        height: 45px;
+    }
+}
+
+nav.navbar{
+    display: inline-block;
+}
+
+div.navbar-nav{
+    display: inline-block;
+}
+
+div.col-5{
+    margin-top: 20px;
+}
+
+div#form.row{
+    float: right;
+}
+
+i.nav-item {
+    font size: 30px;
+}
+
+a{
+    margin-bottom: 15px;
+}

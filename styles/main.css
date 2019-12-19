@@ -1,0 +1,26 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.navbar-brand img {
+  width: 140px;
+  height: 45px;
+}
+
+nav.navbar {
+  display: inline-block;
+}
+
+div.navbar-nav {
+  display: inline-block;
+}
+
+div.col-5 {
+  margin-top: 20px;
+}
+
+div#form.row {
+  float: right;
+}
+/*# sourceMappingURL=main.css.map */
